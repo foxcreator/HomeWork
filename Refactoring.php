@@ -19,7 +19,8 @@ class User1 implements Contact{
         array_push(self::$all, $name);
         return $this;
 
-    }
+    }  asdasd jksndklsndf
+
 
     public function surname(string $surname): Contact
     {
